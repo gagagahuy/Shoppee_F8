@@ -25,5 +25,4 @@ overlay.onclick = function () {
 
 menuIcon.onclick = function () {
     headerMenuList.classList.toggle("active");
-    // headerMenuOverlay.style.display = "block";
 };
